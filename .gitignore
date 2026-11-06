@@ -1,0 +1,9 @@
+# 构建产物
+build/
+*.dmg
+
+# macOS
+.DS_Store
+
+# 日志
+*.log
