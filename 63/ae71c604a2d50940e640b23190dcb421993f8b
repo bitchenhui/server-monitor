@@ -1,0 +1,14 @@
+README.md
+  h_5020671c7dae5d 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "63ae71c604a2d50940e640b23190dcb421993f8b",
+  "prompts": {},
+  "humans": {
+    "h_5020671c7dae5d": {
+      "author": "bitchenhui <bitchenhui@users.noreply.github.com>"
+    }
+  }
+}
