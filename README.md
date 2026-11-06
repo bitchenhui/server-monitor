@@ -4,7 +4,7 @@
 
 常驻 Mac 菜单栏的服务器监控小工具：自动读取 `~/.ssh/config`，通过 SSH 并行采集所有机器的实时 CPU / 内存 / 负载，点击图标一屏看全。
 
-<!-- 截图位：screenshot.png -->
+![面板截图](screenshot.png)
 
 ## 特性
 
