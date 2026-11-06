@@ -1,0 +1,24 @@
+.gitignore
+  h_5020671c7dae5d 1-9
+LICENSE
+  h_5020671c7dae5d 1-21
+README.md
+  h_5020671c7dae5d 1-109
+build.sh
+  h_5020671c7dae5d 1-62
+config.json
+  h_5020671c7dae5d 1-4
+main.swift
+  h_5020671c7dae5d 1-717
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eea099a564749d93841eb427a4ee90f908add70c",
+  "prompts": {},
+  "humans": {
+    "h_5020671c7dae5d": {
+      "author": "bitchenhui <bitchenhui@users.noreply.github.com>"
+    }
+  }
+}
